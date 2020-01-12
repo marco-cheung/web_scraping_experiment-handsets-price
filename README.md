@@ -1,2 +1,2 @@
-# web_scraping_experiment-handsets-price
+# Web scraping - Handsets price
 To scrap product information from key mobile phone sellers (Fortress, Broadway, SmarTone)
