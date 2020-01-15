@@ -3,7 +3,7 @@ To scrap product information from key mobile phone sellers (Fortress, Broadway, 
 
 - Fortress
 
-  https://www.fortress.com.hk/en/shop/mobile-and-communications/smartphones/c/5?
+  https://www.fortress.com.hk/en/shop/mobile-and-communications/smartphones/c/5
 
 - Broadway
 
